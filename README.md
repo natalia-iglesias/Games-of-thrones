@@ -20,7 +20,7 @@ Versiones:
 - __redux__: 4.0.5
 - __react-redux__: 7.2.3
 
-Está permitido, __bajo su responsabilidad__, actualizar las dependencias a versiones más actuales.
+
 
 
 ## Enunciado
