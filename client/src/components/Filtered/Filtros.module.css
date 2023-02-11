@@ -1,0 +1,10 @@
+.filtros{
+    background-color: transparent;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+
+}
+.filtros:hover{
+    background-color:rgba(240, 170, 41, 0.623);
+}

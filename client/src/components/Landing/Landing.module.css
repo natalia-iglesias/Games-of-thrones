@@ -1,0 +1,25 @@
+.bkg {
+    background-image: url('../../assets/got_thumbnail_finale.jpg');
+    background-position:center;
+      background-size:cover;
+      background-repeat: no-repeat;
+      
+      width: 100vw;
+      height: 100vh;
+
+}
+.btn{
+    border: solid 2px rgba(0, 0, 0, 0.89);
+    border-radius: 15px;
+    width: 7rem;
+    height: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    background-color: rgba(153, 147, 147, 0.507);
+    transform: background-color 0.25s;
+    cursor: pointer;
+    color: white
+}
+.btn:hover {
+    background-color: rgba(236, 108, 108, 0.055);
+}

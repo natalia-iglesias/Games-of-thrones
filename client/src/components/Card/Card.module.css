@@ -1,0 +1,23 @@
+.card {
+    display: inline-flex;
+    justify-self: start;
+    justify-content:space-between;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color : black;
+    font-size: 15px;
+    margin-top:30px;
+    width: 200px;
+    height: 254px;
+    padding: 20px; 
+ }
+ .card:hover {
+    margin-top:15px;
+ }
+ .h{
+   color:rgb(155, 12, 12);
+ }
+ .img {
+    width: 200px;
+    height: 200px;
+ }

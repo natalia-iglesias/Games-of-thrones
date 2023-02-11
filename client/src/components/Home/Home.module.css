@@ -1,0 +1,16 @@
+.bkg {
+    background-image: url('../../assets/mauricio-santos-N1gFsYf9AI0-unsplash.jpg');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+    width: 100vw;
+    height: 100vh;
+    
+}
+.tarjeta {
+    display: inline-flex;
+    justify-self: start;
+    justify-content:space-between;
+    
+ }
